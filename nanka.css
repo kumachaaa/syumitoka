@@ -1,0 +1,92 @@
+body {
+    margin 20px
+
+}
+
+
+h1 {
+    background-color: #2A4B71;
+    width: 700px;
+    font-size: 25pt;
+    height: 50px;
+    padding: 15px;
+}
+
+.sub {
+    padding-top: 1px;
+    padding-left: 15px;
+    padding-bottom: 30px;
+}
+
+.sukinamono {
+    border: solid 3.5px 	#2A4B71;/*線色*/
+    width: 700px;
+    padding: 0.5em;/*文字周りの余白*/
+    padding-left: 15px;
+    border-radius: 0.5em;/*角丸*/
+  }
+
+.midashi {
+    font-size: 22px;
+    font-family: "Comic Sans MS";
+    padding-bottom: 0px;
+}
+
+li {
+    padding-left: 30px;
+    
+}
+
+.tyousei {
+    padding-top: 1px;
+    padding-left: 20px;
+}
+
+.fuwa {
+    color: #BF69F4;
+}
+
+.kuzu {
+    color: #ACA7BB;
+}
+
+.rore {
+    color: #C10E49;
+}
+
+.ibu {
+    color: #7CA1F0;
+}
+
+.new {
+    color: #fff321;
+}
+.aka {
+    color: red;
+}
+
+.kasen {
+    border-bottom: double 2px #086776;
+}
+
+.yohaku {
+    padding: 100px;
+}
+
+footer {
+    padding: 20px;
+    background-color: #2A4B71;
+    width: 700px;
+    height: 25px;
+}
+
+.sakusei {
+    font-size: 15px;
+    float: right;
+    
+}
+
+
+
+/*二重下線　border-bottom: double 6px #BF69F4;/*
+ただの下線  border-bottom: solid 3px #87CEFA;
